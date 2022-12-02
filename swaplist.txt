@@ -1,0 +1,36 @@
+
+
+format "topOption,topTarget".
+
+format "option,target,topOption,topTarget".
+
+* means match all 
+Target = user or item
+Option = what to do like teleport or use or drop
+
+
+Custom swaps:
+
+*telepor*,*revena*
+*ttack*,*
+*remove-*,*strawb*
+Cancel,*,Kick user,*
+*hop*,*
+
+
+
+
+
+Custom hides:
+
+
+
+*Remove fr*,*
+*Delete*,*
+*Add ign*,*
+*Hide not*,*
+*Add note*,*
+
+
+
+
