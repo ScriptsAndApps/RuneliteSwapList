@@ -23,14 +23,13 @@ Cancel,*,Kick user,*
 
 Custom hides:
 
+*Hide not*,*
+*Add note*,*
 
+Custom hides (optional): 
 
 *Remove fr*,*
 *Delete*,*
 *Add ign*,*
-*Hide not*,*
-*Add note*,*
-
-
 
 
