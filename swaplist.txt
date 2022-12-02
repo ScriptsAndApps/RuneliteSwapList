@@ -1,14 +1,4 @@
-
-
-format "topOption,topTarget".
-
-format "option,target,topOption,topTarget".
-
-* means match all 
-Target = user or item
-Option = what to do like teleport or use or drop
-
-
+(Use control + v to paste this in the Custom swaps)
 Custom swaps:
 
 *telepor*,*revena*
@@ -18,18 +8,27 @@ Cancel,*,Kick user,*
 *hop*,*
 
 
-
-
-
+(Use control + v to paste this in the Custom hides)
 Custom hides:
 
 *Hide not*,*
 *Add note*,*
 
-Custom hides (optional): 
+<<< use this optionally in custom hides >>>
 
 *Remove fr*,*
 *Delete*,*
 *Add ign*,*
 
+
+
+
+
+
+format "topOption,topTarget".
+format "option,target,topOption,topTarget".
+
+* means match all 
+Target = user or item like Revenant teleport or bone 
+Option = what to do like teleport or use or drop or burry
 
