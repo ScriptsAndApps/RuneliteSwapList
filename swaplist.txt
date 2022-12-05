@@ -1,17 +1,32 @@
 (Use control + v to paste this in the Custom swaps)
+
+
+
 Custom swaps:
 
 *telepor*,*revena*
-*ttack*,*
 *remove-*,*strawb*
 Cancel,*,Kick user,*
 *hop*,*
+*Offer-all*,*
+*View*,*
+*ttack*,*
+
+<<< use this optionally in custom swaps >>>
+
+*rub*,*ring of d*
+*Edgeville*,*
+*grand e*,*
+*Deposit-all*,*
+
 
 
 (Use control + v to paste this in the Custom hides)
+
+
 Custom hides:
 
-*Hide not*,*
+*Hide noti*,*
 *Add note*,*
 
 <<< use this optionally in custom hides >>>
