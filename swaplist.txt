@@ -15,6 +15,7 @@ Cancel,*,Kick user,*
 <<< use this optionally in custom swaps >>>
 
 *rub*,*ring of d*
+*rub*,*burn*
 *Edgeville*,*
 *grand e*,*
 *Deposit-all*,*
