@@ -7,9 +7,9 @@ Custom swaps:
 *telepor*,*revena*
 *remove-*,*strawb*
 Cancel,*,Kick user,*
-*hop*,*
 *Offer-all*,*
 *View*,*
+*hop*,*
 *ttack*,*
 
 <<< use this optionally in custom swaps >>>
@@ -19,6 +19,7 @@ Cancel,*,Kick user,*
 *rub*,*burn*
 *Edgeville*,*
 *grand e*,*
+
 *Deposit-all*,*
 
 
@@ -33,9 +34,10 @@ Custom hides:
 
 <<< use this optionally in custom hides >>>
 
+*Add ign*,*
 *Remove fr*,*
 *Delete*,*
-*Add ign*,*
+
 
 
 
