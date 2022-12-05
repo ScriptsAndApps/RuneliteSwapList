@@ -6,4 +6,5 @@
 
 ![this is how to implement in the swap plugin](https://raw.githubusercontent.com/ScriptsAndApps/RuneliteSwapList/main/Untitledbutt.png?raw=true)
 
-![this is how to implement in the swap plugin](https://raw.githubusercontent.com/ScriptsAndApps/RuneliteSwapList/main/Second.png?raw=true)
+![this is how to implement in the swap plugin](https://raw.githubusercontent.com/ScriptsAndApps/RuneliteSwapList/main/
+second.png?raw=true)
