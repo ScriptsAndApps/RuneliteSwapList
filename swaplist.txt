@@ -1,46 +1,56 @@
 (Use control + v to paste this in the Custom swaps)
 
-
-
 Custom swaps:
 
-*telepor*,*revena*
-*remove-*,*strawb*
-Cancel,*,Kick user,*
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+*EDGE*,*AMUL*
+*mon*,*com*
+*grand*,*ring*
+*fer*,*rin*d*
+*tele*,*reve*
+*rub*,*game*
+*rub*,*ne*pass*
+
+*draw*b*,coin*
+*dep*a*,coin*
+
+*cast bloom*,*
+*drop*,*raw*salm*
+*drop*,*raw*tr*
+
+
+*withdraw-14*,*
 *Offer-all*,*
-*View*,*
-*hop*,*
-*ttack*,*
+
+Cancel,*,Kick user,*
+*hop-*,*
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <<< use this optionally in custom swaps >>>
 
-*Monast*,*
-*rub*,*ring of d*
-*rub*,*burn*
-*Edgeville*,*
-*grand e*,*
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+*View*,*
+*rub*,*ring of d*
 *Deposit-all*,*
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 (Use control + v to paste this in the Custom hides)
 
-
 Custom hides:
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 *Hide noti*,*
 *Add note*,*
 
-<<< use this optionally in custom hides >>>
-
-*Add ign*,*
-*Remove fr*,*
-*Delete*,*
-
-
-
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 
