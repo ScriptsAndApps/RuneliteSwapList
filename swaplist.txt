@@ -22,7 +22,7 @@ Custom swaps:
 
 
 *withdraw-14*,*
-*Offer-all*,*
+
 
 Cancel,*,Kick user,*
 *hop-*,*
@@ -35,6 +35,7 @@ Cancel,*,Kick user,*
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+*Offer-all*,*
 *View*,*
 *rub*,*ring of d*
 *Deposit-all*,*
