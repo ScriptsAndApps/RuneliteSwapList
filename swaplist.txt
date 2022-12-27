@@ -11,6 +11,7 @@ Custom swaps:
 *tele*,*reve*
 *rub*,*game*
 *rub*,*ne*pass*
+*rub*,burn*
 
 *draw*b*,coin*
 *dep*a*,coin*
